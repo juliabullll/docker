@@ -1,0 +1,8 @@
+volumes/
+*.log
+
+.vscode/
+*.code-workspace
+
+Thumbs.db
+desktop.ini
